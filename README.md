@@ -1,2 +1,1 @@
-Hemos  creado conflicto
-Soy Senjie
+Hemos  creado conflicto, soy Jose Pitot
